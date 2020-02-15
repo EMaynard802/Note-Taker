@@ -6,4 +6,5 @@ This is an application that can be used to write, save, and delete notes. This a
 ## Technologies-Libraries
 Express - HTML - CSS - Bootstrap - JavaScript
 
-
+## Demo
+![alt text](public/assets/notetaker.gif "Demo")
